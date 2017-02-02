@@ -22,3 +22,6 @@ It would be helpful in large fundamental changes from the original file such as 
 
 How do the diagrams help you visualize the branch structure?
 It provides a visual cue in order to keep each branch organized.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging branches together allows us to create one branch from two. This allows users to update their files and merge them together at the end. The diagram is used to visualize the how two file paths are brought together.
