@@ -6,3 +6,6 @@ When you initialize a repository it creates a repository for the files in a dire
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area is an intermediary for files before they are moved into the working directory and repository. It allows multiple files to be committed at the same time.
+
+How can you use the staging area to make sure you have one commit per logical change?
+The staging area can act as an intermediary between the working directory and the repository allowing a user to focus on the exact change needed.
