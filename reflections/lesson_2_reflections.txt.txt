@@ -18,3 +18,7 @@ The staging area can act as an intermediary between the working directory and th
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 It would be helpful in large fundamental changes from the original file such as language change, change in project requirements, or refactoring of code. The branches would allow for a user to separate the changes and provide a clear direction of the history of a file.
+
+
+How do the diagrams help you visualize the branch structure?
+It provides a visual cue in order to keep each branch organized.
