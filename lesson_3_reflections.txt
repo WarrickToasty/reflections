@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 I would want to use a remote repository if I was using multiple computers or working with another user.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+This will allow a user to decider which files a user would like to have on GitHub.
