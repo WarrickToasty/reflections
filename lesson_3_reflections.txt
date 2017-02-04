@@ -5,3 +5,7 @@ I would want to use a remote repository if I was using multiple computers or wor
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 This will allow a user to decider which files a user would like to have on GitHub.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks create a copy of a repository only on GitHub. Clones create a copy of a repository from GitHub to local machines or local to local machines. A branch creates a copy of a file path and allows a user to create another path that branches away from the master branch. 
