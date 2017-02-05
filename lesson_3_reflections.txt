@@ -19,3 +19,6 @@ Forks create a copy of a repository only on GitHub. Clones create a copy of a re
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It allows a user to work offline of the most up-to-date file.
 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would just update the file and save it as a new name. I would then work on the chronologically most recent file. Git would be MUCH easier to work on and keep track of all of the changes.
