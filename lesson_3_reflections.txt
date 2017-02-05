@@ -1,24 +1,26 @@
 When would you want to use a remote repository rather than keeping all your work local?
-
-I would want to use a remote repository if I was using multiple computers or working with another user.
+  I would want to use a remote repository if I was using multiple computers or working with another user.
 
 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-
-This will allow a user to decider which files a user would like to have on GitHub.
+  This will allow a user to decider which files a user would like to have on GitHub.
 
 
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
-
-Forks create a copy of a repository only on GitHub. Clones create a copy of a repository from GitHub to local machines or local to local machines. A branch creates a copy of a file path and allows a user to create another path that branches away from the master branch.
+  Forks create a copy of a repository only on GitHub. Clones create a copy of a repository from GitHub to local machines or local to local machines. A branch creates a copy of a file path and allows a user to create another path that branches away from the master branch.
 
 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-It allows a user to work offline of the most up-to-date file.
+  It allows a user to work offline of the most up-to-date file.
 
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-I would just update the file and save it as a new name. I would then work on the chronologically most recent file. Git would be MUCH easier to work on and keep track of all of the changes.
+  I would just update the file and save it as a new name. I would then work on the chronologically most recent file. Git would be MUCH easier to work on and keep track of all of the changes.
+
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  A user would like to make changes in a separate branch when a user would like to experiment with different code. A user could have a repository set up for working code or programs and another repository with code that could have a lot of bugs or incomplete features.
